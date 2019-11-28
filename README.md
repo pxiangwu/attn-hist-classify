@@ -1,6 +1,6 @@
 Code for "Deep Attentive Feature Learning for Histopathology Image Classification"
 
-If you feel this code is useful, please consider cite:
+If you feel this code is useful, please consider citing:
 
 	@inproceedings{wu2019deep,
   	title={Deep Attentive Feature Learning for Histopathology Image Classification},
